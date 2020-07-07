@@ -1,0 +1,383 @@
+#,StackOverflow Id,Classification,URL
+1,21220426,Memory transfer bug,https://stackoverflow.com/questions/21220426
+2,12519029,Barrier divergence,https://stackoverflow.com/questions/12519029
+3,55891760,Thread divergence,https://stackoverflow.com/questions/55891760
+4,8789608,Tooling,https://stackoverflow.com/questions/8789608
+5,16320860,How to do algorithm,https://stackoverflow.com/questions/16320860
+6,3778799,Tooling,https://stackoverflow.com/questions/3778799
+7,56400355,Profiling,https://stackoverflow.com/questions/56400355
+8,48131430,Optimise thread conf.,https://stackoverflow.com/questions/48131430
+9,15192787,Tooling,https://stackoverflow.com/questions/15192787
+10,5664987,Threads – general,https://stackoverflow.com/questions/5664987
+11,11978024,Manage memory spaces,https://stackoverflow.com/questions/11978024
+12,28918753,How to do algorithm,https://stackoverflow.com/questions/28918753
+13,30666132,Memory performance,https://stackoverflow.com/questions/30666132
+14,11658074,Multi GPU,https://stackoverflow.com/questions/11658074
+15,9033947,Limitation,https://stackoverflow.com/questions/9033947
+16,15225859,Setup,https://stackoverflow.com/questions/15225859
+17,18432492,Setup,https://stackoverflow.com/questions/18432492
+18,10476315,Threads – general,https://stackoverflow.com/questions/10476315
+19,22040151,Sparse Matrices,https://stackoverflow.com/questions/22040151
+20,23227700,Setup,https://stackoverflow.com/questions/23227700
+21,41793593,Optimizing Kernel Launches,https://stackoverflow.com/questions/41793593
+22,8080956,Performance,https://stackoverflow.com/questions/8080956
+23,41760505,Manage memory spaces,https://stackoverflow.com/questions/41760505
+24,60074078,Removed,https://stackoverflow.com/questions/60074078
+25,2816992,Data types,https://stackoverflow.com/questions/2816992
+26,22778217,Manage memory spaces,https://stackoverflow.com/questions/22778217
+27,9258755,Performance,https://stackoverflow.com/questions/9258755
+28,15496213,Manage memory spaces,https://stackoverflow.com/questions/15496213
+29,16596781,Performance,https://stackoverflow.com/questions/16596781
+30,26997830,Thread divergence,https://stackoverflow.com/questions/26997830
+31,33656689,Tooling,https://stackoverflow.com/questions/33656689
+32,19527391,Dynamic parallelism bug,https://stackoverflow.com/questions/19527391
+33,22513177,Basics,https://stackoverflow.com/questions/22513177
+34,58833808,Synchronization,https://stackoverflow.com/questions/58833808
+35,5322581,Tooling,https://stackoverflow.com/questions/5322581
+36,8158581,Tooling,https://stackoverflow.com/questions/8158581
+37,20652160,Incorrect thread conf.,https://stackoverflow.com/questions/20652160
+38,7909015,Manage memory spaces,https://stackoverflow.com/questions/7909015
+39,59815874,Non GPGPU,https://stackoverflow.com/questions/59815874
+40,54230447,Setup,https://stackoverflow.com/questions/54230447
+41,39418415,Tooling,https://stackoverflow.com/questions/39418415
+42,13036441,Data types,https://stackoverflow.com/questions/13036441
+43,47534882,Host transfer,https://stackoverflow.com/questions/47534882
+44,5801717,Kernel Launches,https://stackoverflow.com/questions/5801717
+45,20550895,Non GPGPU,https://stackoverflow.com/questions/20550895
+46,54355791,Optimizing Kernel Launches,https://stackoverflow.com/questions/54355791
+47,23417573,Tooling,https://stackoverflow.com/questions/23417573
+48,11059308,Tooling,https://stackoverflow.com/questions/11059308
+49,10057109,How to do algorithm,https://stackoverflow.com/questions/10057109
+50,11587160,How to do algorithm,https://stackoverflow.com/questions/11587160
+51,4470246,Manage memory spaces,https://stackoverflow.com/questions/4470246
+52,15495698,Other,https://stackoverflow.com/questions/15495698
+53,31800827,Host transfer,https://stackoverflow.com/questions/31800827
+54,14942330,Incorrect thread conf.,https://stackoverflow.com/questions/14942330
+55,13520709,Incorrect thread conf.,https://stackoverflow.com/questions/13520709
+56,24147806,Non GPGPU,https://stackoverflow.com/questions/24147806
+57,14715343,Memory performance,https://stackoverflow.com/questions/14715343
+58,28887001,Setup,https://stackoverflow.com/questions/28887001
+59,30691363,Sparse Matrices,https://stackoverflow.com/questions/30691363
+60,45776161,Memory transfer bug,https://stackoverflow.com/questions/45776161
+61,59234998,Removed,https://stackoverflow.com/questions/59234998
+62,54003653,Memory performance,https://stackoverflow.com/questions/54003653
+63,44017748,Memory transfer bug,https://stackoverflow.com/questions/44017748
+64,33556182,Tooling,https://stackoverflow.com/questions/33556182
+65,20508884,How to do algorithm,https://stackoverflow.com/questions/20508884
+66,13333168,Tooling,https://stackoverflow.com/questions/13333168
+67,32351786,Optimise thread conf.,https://stackoverflow.com/questions/32351786
+68,30912143,Threads – general,https://stackoverflow.com/questions/30912143
+69,29152661,Setup,https://stackoverflow.com/questions/29152661
+70,43654714,Tooling,https://stackoverflow.com/questions/43654714
+71,5794627,Tooling,https://stackoverflow.com/questions/5794627
+72,48657179,Data races,https://stackoverflow.com/questions/48657179
+73,36120488,Data types,https://stackoverflow.com/questions/36120488
+74,40262448,Host transfer,https://stackoverflow.com/questions/40262448
+75,54661513,How to do algorithm,https://stackoverflow.com/questions/54661513
+76,56142674,Memory performance,https://stackoverflow.com/questions/56142674
+77,42776591,Data races,https://stackoverflow.com/questions/42776591
+78,14420045,Manage memory spaces,https://stackoverflow.com/questions/14420045
+79,25155345,Tooling,https://stackoverflow.com/questions/25155345
+80,30408286,Tooling,https://stackoverflow.com/questions/30408286
+81,41824776,Non GPGPU,https://stackoverflow.com/questions/41824776
+82,20915966,How to do algorithm,https://stackoverflow.com/questions/20915966
+83,52663812,Non GPGPU,https://stackoverflow.com/questions/52663812
+84,41330132,Sparse Matrices,https://stackoverflow.com/questions/41330132
+85,48015972,Tooling,https://stackoverflow.com/questions/48015972
+86,47852841,Non GPGPU,https://stackoverflow.com/questions/47852841
+87,22943018,Non GPGPU,https://stackoverflow.com/questions/22943018
+88,29499128,Tooling,https://stackoverflow.com/questions/29499128
+89,23793748,Tooling,https://stackoverflow.com/questions/23793748
+90,46874044,Tooling,https://stackoverflow.com/questions/46874044
+91,31590788,Incorrect thread conf.,https://stackoverflow.com/questions/31590788
+92,54337313,Tooling,https://stackoverflow.com/questions/54337313
+93,44119610,OpenGL,https://stackoverflow.com/questions/44119610
+94,59828047,How to do algorithm,https://stackoverflow.com/questions/59828047
+95,12975757,Other,https://stackoverflow.com/questions/12975757
+96,57248918,Host transfer,https://stackoverflow.com/questions/57248918
+97,30614827,Host transfer,https://stackoverflow.com/questions/30614827
+98,47710707,Performance,https://stackoverflow.com/questions/47710707
+99,24293538,General Bug,https://stackoverflow.com/questions/24293538
+100,58727168,Setup,https://stackoverflow.com/questions/58727168
+101,12489652,Tooling,https://stackoverflow.com/questions/12489652
+102,53147100,How to do algorithm,https://stackoverflow.com/questions/53147100
+103,34091737,How to do algorithm,https://stackoverflow.com/questions/34091737
+104,6684918,Memory performance,https://stackoverflow.com/questions/6684918
+105,13592194,Performance,https://stackoverflow.com/questions/13592194
+106,14024217,Host transfer,https://stackoverflow.com/questions/14024217
+107,51445003,Tooling,https://stackoverflow.com/questions/51445003
+108,31777037,Higher level patterns,https://stackoverflow.com/questions/31777037
+109,25297609,OpenGL,https://stackoverflow.com/questions/25297609
+110,10412859,Optimise thread conf.,https://stackoverflow.com/questions/10412859
+111,5620738,Tooling,https://stackoverflow.com/questions/5620738
+112,20492773,Basics,https://stackoverflow.com/questions/20492773
+113,17108852,Setup,https://stackoverflow.com/questions/17108852
+114,34990522,OpenGL,https://stackoverflow.com/questions/34990522
+115,14087866,Data types,https://stackoverflow.com/questions/14087866
+116,49332215,Memory transfer bug,https://stackoverflow.com/questions/49332215
+117,54300531,Setup,https://stackoverflow.com/questions/54300531
+118,12150892,Hardware capebiliies,https://stackoverflow.com/questions/12150892
+119,60067211,Removed,https://stackoverflow.com/questions/60067211
+120,19850836,Host transfer,https://stackoverflow.com/questions/19850836
+121,40593997,Setup,https://stackoverflow.com/questions/40593997
+122,15318069,Setup,https://stackoverflow.com/questions/15318069
+123,13509041,OpenGL,https://stackoverflow.com/questions/13509041
+124,12742142,OpenGL,https://stackoverflow.com/questions/12742142
+125,26084176,Optimise thread conf.,https://stackoverflow.com/questions/26084176
+126,29817755,Host transfer,https://stackoverflow.com/questions/29817755
+127,18314248,Optimise thread conf.,https://stackoverflow.com/questions/18314248
+128,7322810,Manage memory spaces,https://stackoverflow.com/questions/7322810
+129,41441692,Data races,https://stackoverflow.com/questions/41441692
+130,6913206,Other,https://stackoverflow.com/questions/6913206
+131,11656791,Host transfer,https://stackoverflow.com/questions/11656791
+132,33842543,Setup,https://stackoverflow.com/questions/33842543
+133,30261859,Data types,https://stackoverflow.com/questions/30261859
+134,14406364,Data types,https://stackoverflow.com/questions/14406364
+135,8015428,Memory performance,https://stackoverflow.com/questions/8015428
+136,46311667,Memory performance,https://stackoverflow.com/questions/46311667
+137,23146742,Non GPGPU,https://stackoverflow.com/questions/23146742
+138,6499036,Basics,https://stackoverflow.com/questions/6499036
+139,33523133,Host transfer,https://stackoverflow.com/questions/33523133
+140,21768591,Non GPGPU,https://stackoverflow.com/questions/21768591
+141,28904114,Data types,https://stackoverflow.com/questions/28904114
+142,57756182,Non GPGPU,https://stackoverflow.com/questions/57756182
+143,53802450,Memory performance,https://stackoverflow.com/questions/53802450
+144,57940834,Data races,https://stackoverflow.com/questions/57940834
+145,19027934,Performance,https://stackoverflow.com/questions/19027934
+146,43156930,Host transfer,https://stackoverflow.com/questions/43156930
+147,60311408,Sparse Matrices,https://stackoverflow.com/questions/60311408
+148,7641817,Non GPGPU,https://stackoverflow.com/questions/7641817
+149,53926749,Non GPGPU,https://stackoverflow.com/questions/53926749
+150,3877467,General Bug,https://stackoverflow.com/questions/3877467
+151,18471170,Performance,https://stackoverflow.com/questions/18471170
+152,16899237,How to do algorithm,https://stackoverflow.com/questions/16899237
+153,11570941,Tooling,https://stackoverflow.com/questions/11570941
+154,31316687,Non GPGPU,https://stackoverflow.com/questions/31316687
+155,12167514,Memory performance,https://stackoverflow.com/questions/12167514
+156,5300910,Tooling,https://stackoverflow.com/questions/5300910
+157,47794843,OpenGL,https://stackoverflow.com/questions/47794843
+158,28444568,Non GPGPU,https://stackoverflow.com/questions/28444568
+159,27106752,Data races,https://stackoverflow.com/questions/27106752
+160,38682005,Tooling,https://stackoverflow.com/questions/38682005
+161,54982083,How to do algorithm,https://stackoverflow.com/questions/54982083
+162,40921343,Non GPGPU,https://stackoverflow.com/questions/40921343
+163,55247096,Setup,https://stackoverflow.com/questions/55247096
+164,27253434,Profiling,https://stackoverflow.com/questions/27253434
+165,38658129,OpenGL,https://stackoverflow.com/questions/38658129
+166,1694549,Other,https://stackoverflow.com/questions/1694549
+167,19755924,Non GPGPU,https://stackoverflow.com/questions/19755924
+168,58235018,Setup,https://stackoverflow.com/questions/58235018
+169,5694383,Manage memory spaces,https://stackoverflow.com/questions/5694383
+170,5204687,Tooling,https://stackoverflow.com/questions/5204687
+171,29978457,Memory Bug,https://stackoverflow.com/questions/29978457
+172,36608199,Bug in dependency,https://stackoverflow.com/questions/36608199
+173,43307620,Incorrect thread conf.,https://stackoverflow.com/questions/43307620
+174,4383855,Performance,https://stackoverflow.com/questions/4383855
+175,47637048,Memory performance,https://stackoverflow.com/questions/47637048
+176,23826260,Non GPGPU,https://stackoverflow.com/questions/23826260
+177,23106643,General Bug,https://stackoverflow.com/questions/23106643
+178,33214334,Performance,https://stackoverflow.com/questions/33214334
+179,27270266,How to do algorithm,https://stackoverflow.com/questions/27270266
+180,33092509,Setup,https://stackoverflow.com/questions/33092509
+181,18357265,Setup,https://stackoverflow.com/questions/18357265
+182,37283178,Memory transfer bug,https://stackoverflow.com/questions/37283178
+183,16282698,Tooling,https://stackoverflow.com/questions/16282698
+184,52831366,Setup,https://stackoverflow.com/questions/52831366
+185,20276112,Tooling,https://stackoverflow.com/questions/20276112
+186,36365745,Setup,https://stackoverflow.com/questions/36365745
+187,56314756,Manage memory spaces,https://stackoverflow.com/questions/56314756
+188,20086047,Incorrect thread conf.,https://stackoverflow.com/questions/20086047
+189,23364524,Bug in dependency,https://stackoverflow.com/questions/23364524
+190,34670989,Tooling,https://stackoverflow.com/questions/34670989
+191,46350485,OpenGL,https://stackoverflow.com/questions/46350485
+192,59735926,Removed,https://stackoverflow.com/questions/59735926
+193,27925979,How to do algorithm,https://stackoverflow.com/questions/27925979
+194,23391914,Higher level patterns,https://stackoverflow.com/questions/23391914
+195,6551326,Multi GPU,https://stackoverflow.com/questions/6551326
+196,16138688,Threads – general,https://stackoverflow.com/questions/16138688
+197,14818250,Host transfer,https://stackoverflow.com/questions/14818250
+198,27563236,Threads – general,https://stackoverflow.com/questions/27563236
+199,29139598,Data types,https://stackoverflow.com/questions/29139598
+200,31753304,Non GPGPU,https://stackoverflow.com/questions/31753304
+201,27761841,Tooling,https://stackoverflow.com/questions/27761841
+202,13177214,Setup,https://stackoverflow.com/questions/13177214
+203,7184312,Performance,https://stackoverflow.com/questions/7184312
+204,12946996,Tooling,https://stackoverflow.com/questions/12946996
+205,36498053,Tooling,https://stackoverflow.com/questions/36498053
+206,16214101,Optimizing Kernel Launches,https://stackoverflow.com/questions/16214101
+207,39264285,How to do algorithm,https://stackoverflow.com/questions/39264285
+208,14789149,General Bug,https://stackoverflow.com/questions/14789149
+209,20748247,Non GPGPU,https://stackoverflow.com/questions/20748247
+210,8481495,Tooling,https://stackoverflow.com/questions/8481495
+211,11178506,Manage memory spaces,https://stackoverflow.com/questions/11178506
+212,29560921,Memory Bug,https://stackoverflow.com/questions/29560921
+213,36074572,Higher level patterns,https://stackoverflow.com/questions/36074572
+214,37944564,Bug in dependency,https://stackoverflow.com/questions/37944564
+215,7703443,Synchronization,https://stackoverflow.com/questions/7703443
+216,38041148,Hardware capebiliies,https://stackoverflow.com/questions/38041148
+217,54236265,Setup,https://stackoverflow.com/questions/54236265
+218,56631340,Removed,https://stackoverflow.com/questions/56631340
+219,50741494,Optimizing Kernel Launches,https://stackoverflow.com/questions/50741494
+220,13988603,How to do algorithm,https://stackoverflow.com/questions/13988603
+221,19670489,Tooling,https://stackoverflow.com/questions/19670489
+222,23726255,How to do algorithm,https://stackoverflow.com/questions/23726255
+223,9140923,Hardware capebiliies,https://stackoverflow.com/questions/9140923
+224,8404411,Optimizing Kernel Launches,https://stackoverflow.com/questions/8404411
+225,34817236,Tooling,https://stackoverflow.com/questions/34817236
+226,13744109,Threads – general,https://stackoverflow.com/questions/13744109
+227,39876785,Memory performance,https://stackoverflow.com/questions/39876785
+228,21456232,How to do algorithm,https://stackoverflow.com/questions/21456232
+229,15266654,How to do algorithm,https://stackoverflow.com/questions/15266654
+230,44663971,OpenGL,https://stackoverflow.com/questions/44663971
+231,11890955,How to do algorithm,https://stackoverflow.com/questions/11890955
+232,38528917,Tooling,https://stackoverflow.com/questions/38528917
+233,2326508,Performance,https://stackoverflow.com/questions/2326508
+234,4870062,Tooling,https://stackoverflow.com/questions/4870062
+235,3052661,Data types,https://stackoverflow.com/questions/3052661
+236,50317769,Tooling,https://stackoverflow.com/questions/50317769
+237,20953729,How to do algorithm,https://stackoverflow.com/questions/20953729
+238,12740133,Data races,https://stackoverflow.com/questions/12740133
+239,53877735,Setup,https://stackoverflow.com/questions/53877735
+240,6601140,Performance,https://stackoverflow.com/questions/6601140
+241,30634312,Threads – general,https://stackoverflow.com/questions/30634312
+242,5972033,Multi GPU,https://stackoverflow.com/questions/5972033
+243,23128652,Data types,https://stackoverflow.com/questions/23128652
+244,44574692,Memory transfer bug,https://stackoverflow.com/questions/44574692
+245,4391053,Memory performance,https://stackoverflow.com/questions/4391053
+246,46442330,Setup,https://stackoverflow.com/questions/46442330
+247,45078951,Optimizing Kernel Launches,https://stackoverflow.com/questions/45078951
+248,10932497,Threads – general,https://stackoverflow.com/questions/10932497
+249,4255737,How to do algorithm,https://stackoverflow.com/questions/4255737
+250,32382292,Memory performance,https://stackoverflow.com/questions/32382292
+251,26467806,Manage memory spaces,https://stackoverflow.com/questions/26467806
+252,28931237,Setup,https://stackoverflow.com/questions/28931237
+253,15168052,General Bug,https://stackoverflow.com/questions/15168052
+254,26130255,Thread divergence,https://stackoverflow.com/questions/26130255
+255,47259868,Out of bounds,https://stackoverflow.com/questions/47259868
+256,37149344,How to do algorithm,https://stackoverflow.com/questions/37149344
+257,41537036,Performance,https://stackoverflow.com/questions/41537036
+258,22463314,Tooling,https://stackoverflow.com/questions/22463314
+259,11673154,Multi GPU,https://stackoverflow.com/questions/11673154
+260,50717306,Setup,https://stackoverflow.com/questions/50717306
+261,14115901,Setup,https://stackoverflow.com/questions/14115901
+262,23204271,OpenGL,https://stackoverflow.com/questions/23204271
+263,26661842,Host transfer,https://stackoverflow.com/questions/26661842
+264,26797226,Other,https://stackoverflow.com/questions/26797226
+265,6581466,How to do algorithm,https://stackoverflow.com/questions/6581466
+266,13594392,Setup,https://stackoverflow.com/questions/13594392
+267,49949789,Manage memory spaces,https://stackoverflow.com/questions/49949789
+268,40748045,Manage memory spaces,https://stackoverflow.com/questions/40748045
+269,29424148,Data races,https://stackoverflow.com/questions/29424148
+270,26362704,Manage memory spaces,https://stackoverflow.com/questions/26362704
+271,31743225,Setup,https://stackoverflow.com/questions/31743225
+272,4081621,Profiling,https://stackoverflow.com/questions/4081621
+273,17131415,Other,https://stackoverflow.com/questions/17131415
+274,53394688,Performance,https://stackoverflow.com/questions/53394688
+275,29691560,Setup,https://stackoverflow.com/questions/29691560
+276,57132770,Incorrect thread conf.,https://stackoverflow.com/questions/57132770
+277,32454143,Profiling,https://stackoverflow.com/questions/32454143
+278,14236761,Setup,https://stackoverflow.com/questions/14236761
+279,25073075,Data types,https://stackoverflow.com/questions/25073075
+280,8350371,Non GPGPU,https://stackoverflow.com/questions/8350371
+281,29184917,Tooling,https://stackoverflow.com/questions/29184917
+282,19860976,Non GPGPU,https://stackoverflow.com/questions/19860976
+283,38737279,Host transfer,https://stackoverflow.com/questions/38737279
+284,37161647,OpenGL,https://stackoverflow.com/questions/37161647
+285,26417475,Memory performance,https://stackoverflow.com/questions/26417475
+286,26417475,Optimise thread conf.,https://stackoverflow.com/questions/26417475
+287,60290094,Host transfer,https://stackoverflow.com/questions/60290094
+288,17896919,Tooling,https://stackoverflow.com/questions/17896919
+289,6085061,OpenGL,https://stackoverflow.com/questions/6085061
+290,253211,Non GPGPU,https://stackoverflow.com/questions/253211
+291,25065982,How to do algorithm,https://stackoverflow.com/questions/25065982
+292,57393148,Basics,https://stackoverflow.com/questions/57393148
+293,52525199,Non GPGPU,https://stackoverflow.com/questions/52525199
+294,1940741,Tooling,https://stackoverflow.com/questions/1940741
+295,25865374,Performance,https://stackoverflow.com/questions/25865374
+296,25361980,Setup,https://stackoverflow.com/questions/25361980
+297,33172052,Tooling,https://stackoverflow.com/questions/33172052
+298,17875843,Hardware capebiliies,https://stackoverflow.com/questions/17875843
+299,10158212,Data races,https://stackoverflow.com/questions/10158212
+300,12783857,Tooling,https://stackoverflow.com/questions/12783857
+301,52306176,Memory performance,https://stackoverflow.com/questions/52306176
+302,51743879,Basics,https://stackoverflow.com/questions/51743879
+303,49638569,Manage memory spaces,https://stackoverflow.com/questions/49638569
+304,52342824,Setup,https://stackoverflow.com/questions/52342824
+305,48372046,Data races,https://stackoverflow.com/questions/48372046
+306,7134419,Tooling,https://stackoverflow.com/questions/7134419
+307,28638010,Host transfer,https://stackoverflow.com/questions/28638010
+308,13915622,Host transfer,https://stackoverflow.com/questions/13915622
+309,14082964,Manage memory spaces,https://stackoverflow.com/questions/14082964
+310,1071379,Data races,https://stackoverflow.com/questions/1071379
+311,58577918,Optimizing Kernel Launches,https://stackoverflow.com/questions/58577918
+312,15851663,Tooling,https://stackoverflow.com/questions/15851663
+313,21073388,Synchronization,https://stackoverflow.com/questions/21073388
+314,52835760,Basics,https://stackoverflow.com/questions/52835760
+315,23875514,Out of bounds,https://stackoverflow.com/questions/23875514
+316,9461287,Basics,https://stackoverflow.com/questions/9461287
+317,6873037,Non GPGPU,https://stackoverflow.com/questions/6873037
+318,45293580,Other,https://stackoverflow.com/questions/45293580
+319,6689391,Other,https://stackoverflow.com/questions/6689391
+320,6445109,Other,https://stackoverflow.com/questions/6445109
+321,7460007,Performance,https://stackoverflow.com/questions/7460007
+322,10917421,Other,https://stackoverflow.com/questions/10917421
+323,21170154,Basics,https://stackoverflow.com/questions/21170154
+324,35313300,Profiling,https://stackoverflow.com/questions/35313300
+325,20852279,Limitation,https://stackoverflow.com/questions/20852279
+326,20852279,Duplicated,https://stackoverflow.com/questions/20852279
+327,14198899,Other,https://stackoverflow.com/questions/14198899
+328,34250283,Tooling,https://stackoverflow.com/questions/34250283
+329,6344590,Manage memory spaces,https://stackoverflow.com/questions/6344590
+330,25230703,How to do algorithm,https://stackoverflow.com/questions/25230703
+331,45181129,How to do algorithm,https://stackoverflow.com/questions/45181129
+332,57302414,Setup,https://stackoverflow.com/questions/57302414
+333,33811042,Tooling,https://stackoverflow.com/questions/33811042
+334,36139078,Hardware capebiliies,https://stackoverflow.com/questions/36139078
+335,4866065,Barrier divergence,https://stackoverflow.com/questions/4866065
+336,17046307,How to do algorithm,https://stackoverflow.com/questions/17046307
+337,13326359,Data types,https://stackoverflow.com/questions/13326359
+338,19925046,General Bug,https://stackoverflow.com/questions/19925046
+339,15179430,Setup,https://stackoverflow.com/questions/15179430
+340,41160594,Other,https://stackoverflow.com/questions/41160594
+341,34098500,Setup,https://stackoverflow.com/questions/34098500
+342,46919462,Tooling,https://stackoverflow.com/questions/46919462
+343,38758340,Hardware capebiliies,https://stackoverflow.com/questions/38758340
+344,28050376,Setup,https://stackoverflow.com/questions/28050376
+345,42829188,Tooling,https://stackoverflow.com/questions/42829188
+346,20730217,Manage memory spaces,https://stackoverflow.com/questions/20730217
+347,20761065,Data races,https://stackoverflow.com/questions/20761065
+348,38404455,Optimizing Kernel Launches,https://stackoverflow.com/questions/38404455
+349,40695455,Setup,https://stackoverflow.com/questions/40695455
+350,14284964,Data types,https://stackoverflow.com/questions/14284964
+351,5720753,Tooling,https://stackoverflow.com/questions/5720753
+352,58610020,Tooling,https://stackoverflow.com/questions/58610020
+353,48904591,Higher level patterns,https://stackoverflow.com/questions/48904591
+354,12778463,How to do algorithm,https://stackoverflow.com/questions/12778463
+355,8073049,Non GPGPU,https://stackoverflow.com/questions/8073049
+356,9056548,Bug in dependency,https://stackoverflow.com/questions/9056548
+357,40890594,Basics,https://stackoverflow.com/questions/40890594
+358,51745761,Hardware capebiliies,https://stackoverflow.com/questions/51745761
+359,11290080,General Bug,https://stackoverflow.com/questions/11290080
+360,48199761,Tooling,https://stackoverflow.com/questions/48199761
+361,24746221,Non GPGPU,https://stackoverflow.com/questions/24746221
+362,10557816,Tooling,https://stackoverflow.com/questions/10557816
+363,47033481,Setup,https://stackoverflow.com/questions/47033481
+364,55819758,Limitation,https://stackoverflow.com/questions/55819758
+365,12650074,How to do algorithm,https://stackoverflow.com/questions/12650074
+366,21128335,CUDA memcheck,https://stackoverflow.com/questions/21128335
+367,34053806,Setup,https://stackoverflow.com/questions/34053806
+368,13676102,Profiling,https://stackoverflow.com/questions/13676102
+369,17080481,Performance,https://stackoverflow.com/questions/17080481
+370,38493464,Performance,https://stackoverflow.com/questions/38493464
+371,16689918,Tooling,https://stackoverflow.com/questions/16689918
+372,5249158,Other,https://stackoverflow.com/questions/5249158
+373,13245258,Non GPGPU,https://stackoverflow.com/questions/13245258
+374,7979025,Tooling,https://stackoverflow.com/questions/7979025
+375,14700733,Setup,https://stackoverflow.com/questions/14700733
+376,6141588,General Bug,https://stackoverflow.com/questions/6141588
+377,10204494,Setup,https://stackoverflow.com/questions/10204494
+378,12798503,Memory performance,https://stackoverflow.com/questions/12798503
+379,13326359,General Bug,https://stackoverflow.com/questions/13326359
+380,20990857,How to do algorithm,https://stackoverflow.com/questions/20990857
+381,5939053,Performance,https://stackoverflow.com/questions/5939053
+382,17152434,How to do algorithm,https://stackoverflow.com/questions/17152434
